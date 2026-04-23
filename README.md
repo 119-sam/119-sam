@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansari Sumaiya</h1>
-<h3 align="center">A passionate machine learning student from India</h3>
+<h3 align="center">I’m a Data Science and Machine Learning enthusiast with hands-on experience building end-to-end AI systems across geospatial modeling, computer vision, and NLP. I’ve worked on real-world projects involving probabilistic seismic modeling, CNN-based image classification, and retrieval-augmented generation (RAG) systems, focusing on scalability and deployment using tools like FastAPI, Docker, and AWS. I enjoy solving complex data problems by combining strong analytical thinking with practical engineering from data pipelines to production-ready models. My work reflects a balance between research-driven approaches and real-world application.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=119-sam&label=Profile%20views&color=0e75b6&style=flat" alt="119-sam" /> </p>
