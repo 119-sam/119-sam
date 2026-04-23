@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C5612AQFLVeP9-KP-9w/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1573974991231?e=2147483647&v=beta&t=rrvrWuAvRqOuxPsP0LK50v8N7_TIjjY5ipLBhzLCLXU" alt="banner" width="90%" />
+  <img src="https://media.licdn.com/dms/image/v2/C5612AQFLVeP9-KP-9w/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1573974991231?e=2147483647&v=beta&t=rrvrWuAvRqOuxPsP0LK50v8N7_TIjjY5ipLBhzLCLXU" alt="banner" width="70%" />
 </p>
 <h1 align="center">Hi 👋, I'm Ansari Sumaiya</h1>
 <h3 align="center">I’m a Data Science and Machine Learning enthusiast with hands-on experience building end-to-end AI systems across geospatial modeling, computer vision, and NLP. I’ve worked on real-world projects involving probabilistic seismic modeling, CNN-based image classification, and retrieval-augmented generation (RAG) systems, focusing on scalability and deployment using tools like FastAPI, Docker, and AWS. I enjoy solving complex data problems by combining strong analytical thinking with practical engineering from data pipelines to production-ready models. My work reflects a balance between research-driven approaches and real-world application.</h3>
